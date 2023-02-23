@@ -1,0 +1,12 @@
+html {
+    background-image: url(img/IMG_2771.jpg);
+    background-repeat: cover;
+    background-size: cover;
+}
+p {
+    color: lawngreen
+}
+img.a {
+    width: 500px;
+    height: 500px;
+}
