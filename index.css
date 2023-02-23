@@ -3,8 +3,12 @@ html {
     background-repeat: cover;
     background-size: cover;
 }
+h1 {
+    color:black;
+}
 p {
-    color: lawngreen
+    color: lawngreen;
+    font-size: xx-large;
 }
 img.a {
     width: 500px;
